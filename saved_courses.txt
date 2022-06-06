@@ -1,0 +1,41 @@
+-------------------------------Double Hashing Table  --------------------------
+0. name:Introduction to programming, credit hours:3, code:COMP133, department: Computer Science,topics:algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+1. name:samuel, credit hours:2, code:SAM, department: asdasdasd,topics:asddasd,adsasdasd
+2. name:structures, credit hours:4, code:COMP2421, department: Computer Science,topics:recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+3. name:structures, credit hours:4, code:COMP2421, department: Computer Science,topics:recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+4. NULL
+5. name:Introduction to programming, credit hours:3, code:COMP133, department: Computer Science,topics:algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+6. NULL
+7. name:Introduction to programming, credit hours:3, code:COMP133, department: Computer Science,topics:algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+8. NULL
+9. NULL
+10. name:Introduction to French, credit hours:3, code:FREN111, department: French Language,topics:letters, numbers, greetings, grammars, statements
+11. NULL
+12. name:structures, credit hours:4, code:COMP2421, department: Computer Science,topics:recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+13. NULL
+14. NULL
+15. name:Introduction to French, credit hours:3, code:FREN111, department: French Language,topics:letters, numbers, greetings, grammars, statements
+16. NULL
+17. name:Introduction to French, credit hours:3, code:FREN111, department: French Language,topics:letters, numbers, greetings, grammars, statements
+18. NULL
+
+------------------------------- Linear Probing Hash Table --------------------------
+0. NULL
+1. name:samuel, credit hours:2, code:SAM, department: asdasdasd,topics:asddasd,adsasdasd
+2. NULL
+3. name:structures, credit hours:4, code:COMP2421, department: Computer Science,topics:recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+4. name:structures, credit hours:4, code:COMP2421, department: Computer Science,topics:recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+5. name:Introduction to programming, credit hours:3, code:COMP133, department: Computer Science,topics:algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+6. name:Introduction to French, credit hours:3, code:FREN111, department: French Language,topics:letters, numbers, greetings, grammars, statements
+7. name:Introduction to programming, credit hours:3, code:COMP133, department: Computer Science,topics:algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+8. name:Introduction to French, credit hours:3, code:FREN111, department: French Language,topics:letters, numbers, greetings, grammars, statements
+9. name:structures, credit hours:4, code:COMP2421, department: Computer Science,topics:recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+10. name:Introduction to programming, credit hours:3, code:COMP133, department: Computer Science,topics:algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+11. name:Introduction to French, credit hours:3, code:FREN111, department: French Language,topics:letters, numbers, greetings, grammars, statements
+12. NULL
+13. NULL
+14. NULL
+15. NULL
+16. NULL
+17. NULL
+18. NULL
